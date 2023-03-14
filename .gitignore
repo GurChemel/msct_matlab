@@ -1,0 +1,8 @@
+2*/*
+ImagesFor*/*
+*.mat
+csv_results/*
+dect_phantoms/*
+outCount/*
+source_and_det/*
+source_and_det_2/*
